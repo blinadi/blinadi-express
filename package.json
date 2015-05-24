@@ -1,0 +1,27 @@
+{
+  "name": "blinadi-express",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.0.0",
+    "blinadijson": "^0.4.2",
+    "colors": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blinadi/blinadi-express"
+  },
+  "keywords": [
+    "express",
+    "blinadi",
+    "json"
+  ],
+  "author": "ibakaidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blinadi/blinadi-express/issues"
+  },
+  "homepage": "https://github.com/blinadi/blinadi-express"
+}
